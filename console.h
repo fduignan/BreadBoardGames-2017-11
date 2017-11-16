@@ -3,7 +3,7 @@
 
 #include <stdint.h>
 #include "font5x7.h"
-#include "../include/STM32F103.h"
+#include "STM32F103.h"
 
 /*
  * August 2017 : Refactored.  Including display and keypad in the same class: Console

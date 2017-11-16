@@ -1,6 +1,6 @@
 // Game that plays homage to classic arcarde games like Space Invaders and Galaga
 #include <stdint.h>
-#include "../include/cortexm3.h"
+#include "cortexm3.h"
 #include "Sprite.h"
 #include "console.h"
 #include "images.h"

@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdint.h>
-#include "../include/cortexm3.h"
-#include "../include/STM32F103.h"
+#include "cortexm3.h"
+#include "STM32F103.h"
 
 void init(void);
 void Default_Handler(void);

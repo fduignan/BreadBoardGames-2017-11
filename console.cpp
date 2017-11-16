@@ -7,8 +7,8 @@
 
 #include <stdint.h>
 #include "font5x7.h"
-#include "../include/cortexm3.h"
-#include "../include/STM32F103.h"
+#include "cortexm3.h"
+#include "STM32F103.h"
 #include "console.h"
 
 Console console;  // single global instance of the console

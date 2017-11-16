@@ -18,7 +18,7 @@
 // Low level I/O routines and display initialization rewritten
 
 #include <stdint.h>
-#include "../include/cortexm3.h"
+#include "cortexm3.h"
 #include "Sprite.h"
 #include "console.h"
 #include "images.h"

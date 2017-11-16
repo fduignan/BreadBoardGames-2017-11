@@ -1,57 +1,57 @@
 
 Discarded input sections
 
- .group         0x0000000000000000        0x8 /tmp/cchFPJVA.o
- .group         0x0000000000000000        0x8 /tmp/cchFPJVA.o
- .group         0x0000000000000000        0x8 /tmp/cchFPJVA.o
- .group         0x0000000000000000        0x8 /tmp/cchFPJVA.o
- .group         0x0000000000000000        0x8 /tmp/cchFPJVA.o
- .group         0x0000000000000000        0x8 /tmp/cchFPJVA.o
- .group         0x0000000000000000        0x8 /tmp/cchFPJVA.o
- .group         0x0000000000000000        0x8 /tmp/cchFPJVA.o
- .group         0x0000000000000000        0x8 /tmp/cchFPJVA.o
- .group         0x0000000000000000        0x8 /tmp/cchFPJVA.o
- .group         0x0000000000000000        0x8 /tmp/cchFPJVA.o
- .group         0x0000000000000000        0x8 /tmp/ccGX7psS.o
- .group         0x0000000000000000        0x8 /tmp/ccGX7psS.o
- .group         0x0000000000000000        0x8 /tmp/ccGX7psS.o
- .group         0x0000000000000000        0x8 /tmp/ccGX7psS.o
- .group         0x0000000000000000        0x8 /tmp/ccGX7psS.o
- .group         0x0000000000000000        0x8 /tmp/ccGX7psS.o
- .group         0x0000000000000000        0x8 /tmp/ccGX7psS.o
- .group         0x0000000000000000        0x8 /tmp/ccGX7psS.o
- .group         0x0000000000000000        0x8 /tmp/ccGX7psS.o
- .group         0x0000000000000000        0x8 /tmp/cccjkbes.o
- .group         0x0000000000000000        0x8 /tmp/cccjkbes.o
- .group         0x0000000000000000        0x8 /tmp/cccjkbes.o
- .group         0x0000000000000000        0x8 /tmp/cccjkbes.o
- .group         0x0000000000000000        0x8 /tmp/cccjkbes.o
- .group         0x0000000000000000        0x8 /tmp/cccjkbes.o
- .group         0x0000000000000000        0x8 /tmp/cccjkbes.o
- .group         0x0000000000000000        0x8 /tmp/cccjkbes.o
- .group         0x0000000000000000        0x8 /tmp/cccjkbes.o
- .group         0x0000000000000000        0x8 /tmp/cccjkbes.o
- .group         0x0000000000000000        0x8 /tmp/cccjkbes.o
+ .group         0x0000000000000000        0x8 /tmp/ccsoXyhP.o
+ .group         0x0000000000000000        0x8 /tmp/ccsoXyhP.o
+ .group         0x0000000000000000        0x8 /tmp/ccsoXyhP.o
+ .group         0x0000000000000000        0x8 /tmp/ccsoXyhP.o
+ .group         0x0000000000000000        0x8 /tmp/ccsoXyhP.o
+ .group         0x0000000000000000        0x8 /tmp/ccsoXyhP.o
+ .group         0x0000000000000000        0x8 /tmp/ccsoXyhP.o
+ .group         0x0000000000000000        0x8 /tmp/ccsoXyhP.o
+ .group         0x0000000000000000        0x8 /tmp/ccsoXyhP.o
+ .group         0x0000000000000000        0x8 /tmp/ccsoXyhP.o
+ .group         0x0000000000000000        0x8 /tmp/ccsoXyhP.o
+ .group         0x0000000000000000        0x8 /tmp/cc849Uin.o
+ .group         0x0000000000000000        0x8 /tmp/cc849Uin.o
+ .group         0x0000000000000000        0x8 /tmp/cc849Uin.o
+ .group         0x0000000000000000        0x8 /tmp/cc849Uin.o
+ .group         0x0000000000000000        0x8 /tmp/cc849Uin.o
+ .group         0x0000000000000000        0x8 /tmp/cc849Uin.o
+ .group         0x0000000000000000        0x8 /tmp/cc849Uin.o
+ .group         0x0000000000000000        0x8 /tmp/cc849Uin.o
+ .group         0x0000000000000000        0x8 /tmp/cc849Uin.o
+ .group         0x0000000000000000        0x8 /tmp/ccqA6I3t.o
+ .group         0x0000000000000000        0x8 /tmp/ccqA6I3t.o
+ .group         0x0000000000000000        0x8 /tmp/ccqA6I3t.o
+ .group         0x0000000000000000        0x8 /tmp/ccqA6I3t.o
+ .group         0x0000000000000000        0x8 /tmp/ccqA6I3t.o
+ .group         0x0000000000000000        0x8 /tmp/ccqA6I3t.o
+ .group         0x0000000000000000        0x8 /tmp/ccqA6I3t.o
+ .group         0x0000000000000000        0x8 /tmp/ccqA6I3t.o
+ .group         0x0000000000000000        0x8 /tmp/ccqA6I3t.o
+ .group         0x0000000000000000        0x8 /tmp/ccqA6I3t.o
+ .group         0x0000000000000000        0x8 /tmp/ccqA6I3t.o
  .text._ZN6SpriteC2EPKttthh
-                0x0000000000000000       0x46 /tmp/cccjkbes.o
+                0x0000000000000000       0x46 /tmp/ccqA6I3t.o
  .text._ZN6Sprite4showEv
-                0x0000000000000000       0x48 /tmp/cccjkbes.o
+                0x0000000000000000       0x48 /tmp/ccqA6I3t.o
  .text._ZN6Sprite6redrawEv
-                0x0000000000000000       0x44 /tmp/cccjkbes.o
+                0x0000000000000000       0x44 /tmp/ccqA6I3t.o
  .text._ZN6Sprite4hideEv
-                0x0000000000000000       0x48 /tmp/cccjkbes.o
+                0x0000000000000000       0x48 /tmp/ccqA6I3t.o
  .text._ZN6Sprite4getXEv
-                0x0000000000000000       0x16 /tmp/cccjkbes.o
+                0x0000000000000000       0x16 /tmp/ccqA6I3t.o
  .text._ZN6Sprite4getYEv
-                0x0000000000000000       0x16 /tmp/cccjkbes.o
+                0x0000000000000000       0x16 /tmp/ccqA6I3t.o
  .text._ZN6Sprite8getWidthEv
-                0x0000000000000000       0x16 /tmp/cccjkbes.o
+                0x0000000000000000       0x16 /tmp/ccqA6I3t.o
  .text._ZN6Sprite9getHeightEv
-                0x0000000000000000       0x16 /tmp/cccjkbes.o
+                0x0000000000000000       0x16 /tmp/ccqA6I3t.o
  .text._ZN6Sprite4moveEtt
-                0x0000000000000000       0x88 /tmp/cccjkbes.o
+                0x0000000000000000       0x88 /tmp/ccqA6I3t.o
  .text._ZN6Sprite7visibleEv
-                0x0000000000000000       0x18 /tmp/cccjkbes.o
+                0x0000000000000000       0x18 /tmp/ccqA6I3t.o
 
 Memory Configuration
 
@@ -62,12 +62,12 @@ ram              0x0000000020000000 0x0000000000005000
 
 Linker script and memory map
 
-LOAD /tmp/cc1bcjEj.o
-LOAD /tmp/cchFPJVA.o
-LOAD /tmp/ccGX7psS.o
-LOAD /tmp/ccYOLT89.o
-LOAD /tmp/cccjkbes.o
-LOAD /tmp/cc3pFVsK.o
+LOAD /tmp/cc5TRjuh.o
+LOAD /tmp/ccsoXyhP.o
+LOAD /tmp/cc849Uin.o
+LOAD /tmp/ccPPXouV.o
+LOAD /tmp/ccqA6I3t.o
+LOAD /tmp/ccCdCHL2.o
 START GROUP
 LOAD /usr/local/gcc-arm-none-eabi-6-2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libgcc.a
 LOAD /usr/local/gcc-arm-none-eabi-6-2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libg.a
@@ -77,15 +77,15 @@ END GROUP
 
 .text           0x0000000008000000     0x5630
  *(.vectors)
- .vectors       0x0000000008000000      0x130 /tmp/ccYOLT89.o
+ .vectors       0x0000000008000000      0x130 /tmp/ccPPXouV.o
  *(.text)
- .text          0x0000000008000130      0x208 /tmp/cc1bcjEj.o
+ .text          0x0000000008000130      0x208 /tmp/cc5TRjuh.o
                 0x0000000008000130                Bunclody17()
                 0x0000000008000194                setup()
                 0x00000000080001a8                loop()
- .text          0x0000000008000338      0x914 /tmp/cchFPJVA.o
+ .text          0x0000000008000338      0x914 /tmp/ccsoXyhP.o
                 0x0000000008000338                PlayBrici()
- .text          0x0000000008000c4c      0xc48 /tmp/ccGX7psS.o
+ .text          0x0000000008000c4c      0xc48 /tmp/cc849Uin.o
                 0x0000000008000c4c                Console::begin()
                 0x0000000008000d10                Console::initDisplay()
                 0x0000000008000fda                Console::putPixel(unsigned short, unsigned short, unsigned short)
@@ -111,7 +111,7 @@ END GROUP
                 0x000000000800179e                Console::random(unsigned long, unsigned long)
                 0x00000000080017ce                Console::prbs()
                 0x0000000008001840                onMillisecond()
- .text          0x0000000008001894      0x298 /tmp/ccYOLT89.o
+ .text          0x0000000008001894      0x298 /tmp/ccPPXouV.o
                 0x0000000008001894                initClocks()
                 0x000000000800195c                registerMillisecondCallback(void*)
                 0x0000000008001978                SysTick_Handler()
@@ -128,10 +128,10 @@ END GROUP
                 0x0000000008001ae4                operator new(unsigned int)
                 0x0000000008001afc                operator delete(void*)
                 0x0000000008001b12                __aeabi_atexit
- .text          0x0000000008001b2c     0x1040 /tmp/cccjkbes.o
+ .text          0x0000000008001b2c     0x1040 /tmp/ccqA6I3t.o
                 0x0000000008001b2c                PlayInvaders()
                 0x0000000008002af0                Explode(unsigned short, unsigned short)
- .text          0x0000000008002b6c      0x4b0 /tmp/cc3pFVsK.o
+ .text          0x0000000008002b6c      0x4b0 /tmp/ccCdCHL2.o
                 0x0000000008002b6c                ReadCom(int, char*)
                 0x0000000008002be8                WriteCom(int, char const*)
                 0x0000000008002c84                initUART(int)
@@ -144,33 +144,33 @@ END GROUP
                 0x0000000008002f56                eputs(char const*)
                 0x0000000008002f94                egets(char*, int)
  *(.rodata)
- .rodata        0x000000000800301c      0xbc7 /tmp/cc1bcjEj.o
+ .rodata        0x000000000800301c      0xbc7 /tmp/cc5TRjuh.o
  *fill*         0x0000000008003be3        0x1 
- .rodata        0x0000000008003be4      0xb39 /tmp/cchFPJVA.o
+ .rodata        0x0000000008003be4      0xb39 /tmp/ccsoXyhP.o
  *fill*         0x000000000800471d        0x3 
- .rodata        0x0000000008004720      0x1f0 /tmp/ccGX7psS.o
- .rodata        0x0000000008004910      0xb6d /tmp/cccjkbes.o
+ .rodata        0x0000000008004720      0x1f0 /tmp/cc849Uin.o
+ .rodata        0x0000000008004910      0xb6d /tmp/ccqA6I3t.o
  *(.comment)
- .comment       0x000000000800547d       0x7f /tmp/cc1bcjEj.o
+ .comment       0x000000000800547d       0x7f /tmp/cc5TRjuh.o
                                          0x80 (size before relaxing)
- .comment       0x00000000080054fc       0x80 /tmp/cchFPJVA.o
- .comment       0x00000000080054fc       0x80 /tmp/ccGX7psS.o
- .comment       0x00000000080054fc       0x80 /tmp/ccYOLT89.o
- .comment       0x00000000080054fc       0x80 /tmp/cccjkbes.o
- .comment       0x00000000080054fc       0x80 /tmp/cc3pFVsK.o
+ .comment       0x00000000080054fc       0x80 /tmp/ccsoXyhP.o
+ .comment       0x00000000080054fc       0x80 /tmp/cc849Uin.o
+ .comment       0x00000000080054fc       0x80 /tmp/ccPPXouV.o
+ .comment       0x00000000080054fc       0x80 /tmp/ccqA6I3t.o
+ .comment       0x00000000080054fc       0x80 /tmp/ccCdCHL2.o
  *(.ARM.attributes)
  .ARM.attributes
-                0x00000000080054fc       0x33 /tmp/cc1bcjEj.o
+                0x00000000080054fc       0x33 /tmp/cc5TRjuh.o
  .ARM.attributes
-                0x000000000800552f       0x33 /tmp/cchFPJVA.o
+                0x000000000800552f       0x33 /tmp/ccsoXyhP.o
  .ARM.attributes
-                0x0000000008005562       0x33 /tmp/ccGX7psS.o
+                0x0000000008005562       0x33 /tmp/cc849Uin.o
  .ARM.attributes
-                0x0000000008005595       0x33 /tmp/ccYOLT89.o
+                0x0000000008005595       0x33 /tmp/ccPPXouV.o
  .ARM.attributes
-                0x00000000080055c8       0x33 /tmp/cccjkbes.o
+                0x00000000080055c8       0x33 /tmp/ccqA6I3t.o
  .ARM.attributes
-                0x00000000080055fb       0x33 /tmp/cc3pFVsK.o
+                0x00000000080055fb       0x33 /tmp/ccCdCHL2.o
                 0x0000000008005630                . = ALIGN (0x4)
  *fill*         0x000000000800562e        0x2 
 
@@ -187,137 +187,137 @@ END GROUP
  .v4_bx         0x0000000008005630        0x0 linker stubs
 
 .iplt           0x0000000008005630        0x0
- .iplt          0x0000000008005630        0x0 /tmp/cc1bcjEj.o
+ .iplt          0x0000000008005630        0x0 /tmp/cc5TRjuh.o
 
 .text._ZN6SpriteC2EPKttthh
                 0x0000000008005630       0x46
  .text._ZN6SpriteC2EPKttthh
-                0x0000000008005630       0x46 /tmp/cchFPJVA.o
+                0x0000000008005630       0x46 /tmp/ccsoXyhP.o
                 0x0000000008005630                Sprite::Sprite(unsigned short const*, unsigned short, unsigned short, unsigned char, unsigned char)
                 0x0000000008005630                Sprite::Sprite(unsigned short const*, unsigned short, unsigned short, unsigned char, unsigned char)
 
 .text._ZN6Sprite4showEv
                 0x0000000008005678       0x48
  .text._ZN6Sprite4showEv
-                0x0000000008005678       0x48 /tmp/cchFPJVA.o
+                0x0000000008005678       0x48 /tmp/ccsoXyhP.o
                 0x0000000008005678                Sprite::show()
 
 .text._ZN6Sprite6redrawEv
                 0x00000000080056c0       0x44
  .text._ZN6Sprite6redrawEv
-                0x00000000080056c0       0x44 /tmp/cchFPJVA.o
+                0x00000000080056c0       0x44 /tmp/ccsoXyhP.o
                 0x00000000080056c0                Sprite::redraw()
 
 .text._ZN6Sprite4hideEv
                 0x0000000008005704       0x48
  .text._ZN6Sprite4hideEv
-                0x0000000008005704       0x48 /tmp/cchFPJVA.o
+                0x0000000008005704       0x48 /tmp/ccsoXyhP.o
                 0x0000000008005704                Sprite::hide()
 
 .text._ZN6Sprite4getXEv
                 0x000000000800574c       0x16
  .text._ZN6Sprite4getXEv
-                0x000000000800574c       0x16 /tmp/cchFPJVA.o
+                0x000000000800574c       0x16 /tmp/ccsoXyhP.o
                 0x000000000800574c                Sprite::getX()
 
 .text._ZN6Sprite4getYEv
                 0x0000000008005762       0x16
  .text._ZN6Sprite4getYEv
-                0x0000000008005762       0x16 /tmp/cchFPJVA.o
+                0x0000000008005762       0x16 /tmp/ccsoXyhP.o
                 0x0000000008005762                Sprite::getY()
 
 .text._ZN6Sprite8getWidthEv
                 0x0000000008005778       0x16
  .text._ZN6Sprite8getWidthEv
-                0x0000000008005778       0x16 /tmp/cchFPJVA.o
+                0x0000000008005778       0x16 /tmp/ccsoXyhP.o
                 0x0000000008005778                Sprite::getWidth()
 
 .text._ZN6Sprite9getHeightEv
                 0x000000000800578e       0x16
  .text._ZN6Sprite9getHeightEv
-                0x000000000800578e       0x16 /tmp/cchFPJVA.o
+                0x000000000800578e       0x16 /tmp/ccsoXyhP.o
                 0x000000000800578e                Sprite::getHeight()
 
 .text._ZN6Sprite4moveEtt
                 0x00000000080057a4       0x88
  .text._ZN6Sprite4moveEtt
-                0x00000000080057a4       0x88 /tmp/cchFPJVA.o
+                0x00000000080057a4       0x88 /tmp/ccsoXyhP.o
                 0x00000000080057a4                Sprite::move(unsigned short, unsigned short)
 
 .text._ZN6Sprite7visibleEv
                 0x000000000800582c       0x18
  .text._ZN6Sprite7visibleEv
-                0x000000000800582c       0x18 /tmp/cchFPJVA.o
+                0x000000000800582c       0x18 /tmp/ccsoXyhP.o
                 0x000000000800582c                Sprite::visible()
 
 .text._ZN6Sprite8touchingEtt
                 0x0000000008005844       0xe4
  .text._ZN6Sprite8touchingEtt
-                0x0000000008005844       0xe4 /tmp/cchFPJVA.o
+                0x0000000008005844       0xe4 /tmp/ccsoXyhP.o
                 0x0000000008005844                Sprite::touching(unsigned short, unsigned short)
 
 .text._ZN7Console5WRLowEv
                 0x0000000008005928       0x1c
  .text._ZN7Console5WRLowEv
-                0x0000000008005928       0x1c /tmp/ccGX7psS.o
+                0x0000000008005928       0x1c /tmp/cc849Uin.o
                 0x0000000008005928                Console::WRLow()
 
 .text._ZN7Console6WRHighEv
                 0x0000000008005944       0x1c
  .text._ZN7Console6WRHighEv
-                0x0000000008005944       0x1c /tmp/ccGX7psS.o
+                0x0000000008005944       0x1c /tmp/cc849Uin.o
                 0x0000000008005944                Console::WRHigh()
 
 .text._ZN7Console11CommandModeEv
                 0x0000000008005960       0x1c
  .text._ZN7Console11CommandModeEv
-                0x0000000008005960       0x1c /tmp/ccGX7psS.o
+                0x0000000008005960       0x1c /tmp/cc849Uin.o
                 0x0000000008005960                Console::CommandMode()
 
 .text._ZN7Console8DataModeEv
                 0x000000000800597c       0x1c
  .text._ZN7Console8DataModeEv
-                0x000000000800597c       0x1c /tmp/ccGX7psS.o
+                0x000000000800597c       0x1c /tmp/cc849Uin.o
                 0x000000000800597c                Console::DataMode()
 
 .text._ZN7Console5CSLowEv
                 0x0000000008005998       0x1c
  .text._ZN7Console5CSLowEv
-                0x0000000008005998       0x1c /tmp/ccGX7psS.o
+                0x0000000008005998       0x1c /tmp/cc849Uin.o
                 0x0000000008005998                Console::CSLow()
 
 .text._ZN7Console6CSHighEv
                 0x00000000080059b4       0x1c
  .text._ZN7Console6CSHighEv
-                0x00000000080059b4       0x1c /tmp/ccGX7psS.o
+                0x00000000080059b4       0x1c /tmp/cc849Uin.o
                 0x00000000080059b4                Console::CSHigh()
 
 .text._ZN7Console6RDHighEv
                 0x00000000080059d0       0x1c
  .text._ZN7Console6RDHighEv
-                0x00000000080059d0       0x1c /tmp/ccGX7psS.o
+                0x00000000080059d0       0x1c /tmp/cc849Uin.o
                 0x00000000080059d0                Console::RDHigh()
 
 .text._ZN7Console6RSTLowEv
                 0x00000000080059ec       0x20
  .text._ZN7Console6RSTLowEv
-                0x00000000080059ec       0x20 /tmp/ccGX7psS.o
+                0x00000000080059ec       0x20 /tmp/cc849Uin.o
                 0x00000000080059ec                Console::RSTLow()
 
 .text._ZN7Console7RSTHighEv
                 0x0000000008005a0c       0x20
  .text._ZN7Console7RSTHighEv
-                0x0000000008005a0c       0x20 /tmp/ccGX7psS.o
+                0x0000000008005a0c       0x20 /tmp/cc849Uin.o
                 0x0000000008005a0c                Console::RSTHigh()
 
 .text._ZN6Sprite6withinEtt
                 0x0000000008005a2c       0x68
  .text._ZN6Sprite6withinEtt
-                0x0000000008005a2c       0x68 /tmp/cccjkbes.o
+                0x0000000008005a2c       0x68 /tmp/ccqA6I3t.o
                 0x0000000008005a2c                Sprite::within(unsigned short, unsigned short)
 
 .rel.dyn        0x0000000008005a94        0x0
- .rel.iplt      0x0000000008005a94        0x0 /tmp/cc1bcjEj.o
+ .rel.iplt      0x0000000008005a94        0x0 /tmp/cc5TRjuh.o
 
 .ctors          0x0000000008005a94        0x0
                 0x0000000008005a94                PROVIDE (__ctors_start__, .)
@@ -336,31 +336,31 @@ END GROUP
                 0x0000000008005a94                INIT_DATA_VALUES = LOADADDR (.data)
                 0x0000000020000000                INIT_DATA_START = .
  *(.data)
- .data          0x0000000020000000        0x0 /tmp/cc1bcjEj.o
- .data          0x0000000020000000        0x0 /tmp/cchFPJVA.o
- .data          0x0000000020000000        0x4 /tmp/ccGX7psS.o
- .data          0x0000000020000004        0x0 /tmp/ccYOLT89.o
- .data          0x0000000020000004        0x0 /tmp/cccjkbes.o
- .data          0x0000000020000004        0x0 /tmp/cc3pFVsK.o
+ .data          0x0000000020000000        0x0 /tmp/cc5TRjuh.o
+ .data          0x0000000020000000        0x0 /tmp/ccsoXyhP.o
+ .data          0x0000000020000000        0x4 /tmp/cc849Uin.o
+ .data          0x0000000020000004        0x0 /tmp/ccPPXouV.o
+ .data          0x0000000020000004        0x0 /tmp/ccqA6I3t.o
+ .data          0x0000000020000004        0x0 /tmp/ccCdCHL2.o
                 0x0000000020000004                INIT_DATA_END = .
                 0x0000000020000004                . = ALIGN (0x4)
                 0x0000000020000004                BSS_START = .
 
 .igot.plt       0x0000000020000004        0x0 load address 0x0000000008005a98
- .igot.plt      0x0000000020000004        0x0 /tmp/cc1bcjEj.o
+ .igot.plt      0x0000000020000004        0x0 /tmp/cc5TRjuh.o
 
 .bss            0x0000000020000004       0xc0 load address 0x0000000008005a98
  *(.bss)
- .bss           0x0000000020000004        0x1 /tmp/cc1bcjEj.o
+ .bss           0x0000000020000004        0x1 /tmp/cc5TRjuh.o
                 0x0000000020000004                GameStarted
- .bss           0x0000000020000005        0x0 /tmp/cchFPJVA.o
+ .bss           0x0000000020000005        0x0 /tmp/ccsoXyhP.o
  *fill*         0x0000000020000005        0x3 
- .bss           0x0000000020000008       0x14 /tmp/ccGX7psS.o
+ .bss           0x0000000020000008       0x14 /tmp/cc849Uin.o
                 0x0000000020000008                console
- .bss           0x000000002000001c        0x4 /tmp/ccYOLT89.o
+ .bss           0x000000002000001c        0x4 /tmp/ccPPXouV.o
                 0x000000002000001c                Console_tick
- .bss           0x0000000020000020        0x0 /tmp/cccjkbes.o
- .bss           0x0000000020000020       0xa4 /tmp/cc3pFVsK.o
+ .bss           0x0000000020000020        0x0 /tmp/ccqA6I3t.o
+ .bss           0x0000000020000020       0xa4 /tmp/ccCdCHL2.o
                 0x0000000020000020                ComRXBuffer
                 0x000000002000006c                ComTXBuffer
                 0x00000000200000b8                ComOpen
@@ -371,214 +371,214 @@ END GROUP
 OUTPUT(main.elf elf32-littlearm)
 
 .debug_info     0x0000000000000000     0x4a56
- .debug_info    0x0000000000000000      0x72c /tmp/cc1bcjEj.o
- .debug_info    0x000000000000072c      0xbb8 /tmp/cchFPJVA.o
- .debug_info    0x00000000000012e4     0x113d /tmp/ccGX7psS.o
- .debug_info    0x0000000000002421     0x127b /tmp/ccYOLT89.o
- .debug_info    0x000000000000369c      0xc75 /tmp/cccjkbes.o
- .debug_info    0x0000000000004311      0x745 /tmp/cc3pFVsK.o
+ .debug_info    0x0000000000000000      0x72c /tmp/cc5TRjuh.o
+ .debug_info    0x000000000000072c      0xbb8 /tmp/ccsoXyhP.o
+ .debug_info    0x00000000000012e4     0x113d /tmp/cc849Uin.o
+ .debug_info    0x0000000000002421     0x127b /tmp/ccPPXouV.o
+ .debug_info    0x000000000000369c      0xc75 /tmp/ccqA6I3t.o
+ .debug_info    0x0000000000004311      0x745 /tmp/ccCdCHL2.o
 
 .debug_abbrev   0x0000000000000000      0xda3
- .debug_abbrev  0x0000000000000000      0x15e /tmp/cc1bcjEj.o
- .debug_abbrev  0x000000000000015e      0x217 /tmp/cchFPJVA.o
- .debug_abbrev  0x0000000000000375      0x2a1 /tmp/ccGX7psS.o
- .debug_abbrev  0x0000000000000616      0x38e /tmp/ccYOLT89.o
- .debug_abbrev  0x00000000000009a4      0x24f /tmp/cccjkbes.o
- .debug_abbrev  0x0000000000000bf3      0x1b0 /tmp/cc3pFVsK.o
+ .debug_abbrev  0x0000000000000000      0x15e /tmp/cc5TRjuh.o
+ .debug_abbrev  0x000000000000015e      0x217 /tmp/ccsoXyhP.o
+ .debug_abbrev  0x0000000000000375      0x2a1 /tmp/cc849Uin.o
+ .debug_abbrev  0x0000000000000616      0x38e /tmp/ccPPXouV.o
+ .debug_abbrev  0x00000000000009a4      0x24f /tmp/ccqA6I3t.o
+ .debug_abbrev  0x0000000000000bf3      0x1b0 /tmp/ccCdCHL2.o
 
 .debug_aranges  0x0000000000000000      0x1b8
  .debug_aranges
-                0x0000000000000000       0x20 /tmp/cc1bcjEj.o
+                0x0000000000000000       0x20 /tmp/cc5TRjuh.o
  .debug_aranges
-                0x0000000000000020       0x78 /tmp/cchFPJVA.o
+                0x0000000000000020       0x78 /tmp/ccsoXyhP.o
  .debug_aranges
-                0x0000000000000098       0x68 /tmp/ccGX7psS.o
+                0x0000000000000098       0x68 /tmp/cc849Uin.o
  .debug_aranges
-                0x0000000000000100       0x20 /tmp/ccYOLT89.o
+                0x0000000000000100       0x20 /tmp/ccPPXouV.o
  .debug_aranges
-                0x0000000000000120       0x78 /tmp/cccjkbes.o
+                0x0000000000000120       0x78 /tmp/ccqA6I3t.o
  .debug_aranges
-                0x0000000000000198       0x20 /tmp/cc3pFVsK.o
+                0x0000000000000198       0x20 /tmp/ccCdCHL2.o
 
-.debug_line     0x0000000000000000     0x101f
- .debug_line    0x0000000000000000      0x13c /tmp/cc1bcjEj.o
- .debug_line    0x000000000000013c      0x2ee /tmp/cchFPJVA.o
- .debug_line    0x000000000000042a      0x342 /tmp/ccGX7psS.o
- .debug_line    0x000000000000076c      0x32b /tmp/ccYOLT89.o
- .debug_line    0x0000000000000a97      0x3d2 /tmp/cccjkbes.o
- .debug_line    0x0000000000000e69      0x1b6 /tmp/cc3pFVsK.o
+.debug_line     0x0000000000000000      0xffe
+ .debug_line    0x0000000000000000      0x13c /tmp/cc5TRjuh.o
+ .debug_line    0x000000000000013c      0x2ee /tmp/ccsoXyhP.o
+ .debug_line    0x000000000000042a      0x337 /tmp/cc849Uin.o
+ .debug_line    0x0000000000000761      0x320 /tmp/ccPPXouV.o
+ .debug_line    0x0000000000000a81      0x3d2 /tmp/ccqA6I3t.o
+ .debug_line    0x0000000000000e53      0x1ab /tmp/ccCdCHL2.o
 
 .debug_str      0x0000000000000000     0x1578
- .debug_str     0x0000000000000000      0x70f /tmp/cc1bcjEj.o
+ .debug_str     0x0000000000000000      0x70f /tmp/cc5TRjuh.o
                                         0x762 (size before relaxing)
- .debug_str     0x000000000000070f      0x1e9 /tmp/cchFPJVA.o
+ .debug_str     0x000000000000070f      0x1e9 /tmp/ccsoXyhP.o
                                         0x8ee (size before relaxing)
- .debug_str     0x00000000000008f8      0x1c1 /tmp/ccGX7psS.o
+ .debug_str     0x00000000000008f8      0x1c1 /tmp/cc849Uin.o
                                         0x89f (size before relaxing)
- .debug_str     0x0000000000000ab9      0x736 /tmp/ccYOLT89.o
+ .debug_str     0x0000000000000ab9      0x736 /tmp/ccPPXouV.o
                                         0x99b (size before relaxing)
- .debug_str     0x00000000000011ef      0x10f /tmp/cccjkbes.o
+ .debug_str     0x00000000000011ef      0x10f /tmp/ccqA6I3t.o
                                         0x9ad (size before relaxing)
- .debug_str     0x00000000000012fe      0x27a /tmp/cc3pFVsK.o
+ .debug_str     0x00000000000012fe      0x27a /tmp/ccCdCHL2.o
                                         0x4ad (size before relaxing)
 
 .debug_frame    0x0000000000000000      0xd7c
- .debug_frame   0x0000000000000000       0x74 /tmp/cc1bcjEj.o
- .debug_frame   0x0000000000000074      0x1f4 /tmp/cchFPJVA.o
- .debug_frame   0x0000000000000268      0x52c /tmp/ccGX7psS.o
- .debug_frame   0x0000000000000794      0x22c /tmp/ccYOLT89.o
- .debug_frame   0x00000000000009c0      0x21c /tmp/cccjkbes.o
- .debug_frame   0x0000000000000bdc      0x1a0 /tmp/cc3pFVsK.o
+ .debug_frame   0x0000000000000000       0x74 /tmp/cc5TRjuh.o
+ .debug_frame   0x0000000000000074      0x1f4 /tmp/ccsoXyhP.o
+ .debug_frame   0x0000000000000268      0x52c /tmp/cc849Uin.o
+ .debug_frame   0x0000000000000794      0x22c /tmp/ccPPXouV.o
+ .debug_frame   0x00000000000009c0      0x21c /tmp/ccqA6I3t.o
+ .debug_frame   0x0000000000000bdc      0x1a0 /tmp/ccCdCHL2.o
 
 .debug_ranges   0x0000000000000000      0x128
- .debug_ranges  0x0000000000000000       0x68 /tmp/cchFPJVA.o
- .debug_ranges  0x0000000000000068       0x58 /tmp/ccGX7psS.o
- .debug_ranges  0x00000000000000c0       0x68 /tmp/cccjkbes.o
+ .debug_ranges  0x0000000000000000       0x68 /tmp/ccsoXyhP.o
+ .debug_ranges  0x0000000000000068       0x58 /tmp/cc849Uin.o
+ .debug_ranges  0x00000000000000c0       0x68 /tmp/ccqA6I3t.o
 
 Cross Reference Table
 
 Symbol                                            File
-BSS_END                                           /tmp/ccYOLT89.o
-BSS_START                                         /tmp/ccYOLT89.o
-Bunclody17()                                      /tmp/cc1bcjEj.o
-ComBusy                                           /tmp/cc3pFVsK.o
-ComError                                          /tmp/cc3pFVsK.o
-ComOpen                                           /tmp/cc3pFVsK.o
-ComRXBuffer                                       /tmp/cc3pFVsK.o
-ComTXBuffer                                       /tmp/cc3pFVsK.o
-Console::CSHigh()                                 /tmp/ccGX7psS.o
-Console::CSLow()                                  /tmp/ccGX7psS.o
-Console::CommandMode()                            /tmp/ccGX7psS.o
-Console::DataMode()                               /tmp/ccGX7psS.o
-Console::FirePressed()                            /tmp/ccGX7psS.o
-                                                  /tmp/cccjkbes.o
-                                                  /tmp/cchFPJVA.o
-                                                  /tmp/cc1bcjEj.o
-Console::LeftPressed()                            /tmp/ccGX7psS.o
-                                                  /tmp/cccjkbes.o
-                                                  /tmp/cchFPJVA.o
-                                                  /tmp/cc1bcjEj.o
-Console::RDHigh()                                 /tmp/ccGX7psS.o
-Console::RSTHigh()                                /tmp/ccGX7psS.o
-Console::RSTLow()                                 /tmp/ccGX7psS.o
-Console::RightPressed()                           /tmp/ccGX7psS.o
-                                                  /tmp/cccjkbes.o
-                                                  /tmp/cchFPJVA.o
-                                                  /tmp/cc1bcjEj.o
-Console::SoundPlaying()                           /tmp/ccGX7psS.o
-Console::WRHigh()                                 /tmp/ccGX7psS.o
-Console::WRLow()                                  /tmp/ccGX7psS.o
-Console::Write_Command(unsigned short)            /tmp/ccGX7psS.o
-Console::Write_Command_Data(unsigned short, unsigned short) /tmp/ccGX7psS.o
-Console::Write_Data(unsigned short)               /tmp/ccGX7psS.o
-Console::begin()                                  /tmp/ccGX7psS.o
-                                                  /tmp/cc1bcjEj.o
-Console::fillRectangle(unsigned short, unsigned short, unsigned short, unsigned short, unsigned short) /tmp/ccGX7psS.o
-                                                  /tmp/cccjkbes.o
-                                                  /tmp/cchFPJVA.o
-                                                  /tmp/cc1bcjEj.o
-Console::initDisplay()                            /tmp/ccGX7psS.o
-Console::initSound()                              /tmp/ccGX7psS.o
-Console::openAperture(unsigned short, unsigned short, unsigned short, unsigned short) /tmp/ccGX7psS.o
-Console::output_byte(unsigned char)               /tmp/ccGX7psS.o
-Console::playMelody(unsigned long const*, unsigned long const*, int) /tmp/ccGX7psS.o
-                                                  /tmp/cc1bcjEj.o
-Console::playTone(unsigned long, unsigned long)   /tmp/ccGX7psS.o
-                                                  /tmp/cccjkbes.o
-                                                  /tmp/cchFPJVA.o
-Console::prbs()                                   /tmp/ccGX7psS.o
-Console::putImage(unsigned short, unsigned short, unsigned short, unsigned short, unsigned short const*) /tmp/ccGX7psS.o
-                                                  /tmp/cccjkbes.o
-                                                  /tmp/cchFPJVA.o
-Console::putNumber(unsigned short, unsigned short, unsigned short, unsigned short, unsigned short) /tmp/ccGX7psS.o
-                                                  /tmp/cccjkbes.o
-                                                  /tmp/cchFPJVA.o
-Console::putPixel(unsigned short, unsigned short, unsigned short) /tmp/ccGX7psS.o
-Console::putText(char const*, unsigned short, unsigned short, unsigned short, unsigned short, unsigned short) /tmp/ccGX7psS.o
-                                                  /tmp/cccjkbes.o
-                                                  /tmp/cchFPJVA.o
-                                                  /tmp/cc1bcjEj.o
-Console::random(unsigned long, unsigned long)     /tmp/ccGX7psS.o
-                                                  /tmp/cccjkbes.o
-                                                  /tmp/cchFPJVA.o
-                                                  /tmp/cc1bcjEj.o
-Console::setupButtons()                           /tmp/ccGX7psS.o
-Console::sleep(unsigned long)                     /tmp/ccGX7psS.o
-                                                  /tmp/cccjkbes.o
-                                                  /tmp/cchFPJVA.o
-                                                  /tmp/cc1bcjEj.o
-Console::stopTone()                               /tmp/ccGX7psS.o
-Console_tick                                      /tmp/ccYOLT89.o
-Default_Handler()                                 /tmp/ccYOLT89.o
-Explode(unsigned short, unsigned short)           /tmp/cccjkbes.o
-GameStarted                                       /tmp/cc1bcjEj.o
-GetBuf(tagComBuffer*)                             /tmp/cc3pFVsK.o
-GetBufCount(tagComBuffer*)                        /tmp/cc3pFVsK.o
-INIT_DATA_END                                     /tmp/ccYOLT89.o
-INIT_DATA_START                                   /tmp/ccYOLT89.o
-INIT_DATA_VALUES                                  /tmp/ccYOLT89.o
-PlayBrici()                                       /tmp/cchFPJVA.o
-                                                  /tmp/cc1bcjEj.o
-PlayInvaders()                                    /tmp/cccjkbes.o
-                                                  /tmp/cc1bcjEj.o
-PutBuf(tagComBuffer*, unsigned char)              /tmp/cc3pFVsK.o
-ReadCom(int, char*)                               /tmp/cc3pFVsK.o
-Sprite::Sprite(unsigned short const*, unsigned short, unsigned short, unsigned char, unsigned char) /tmp/cchFPJVA.o
-                                                  /tmp/cccjkbes.o
-Sprite::Sprite(unsigned short const*, unsigned short, unsigned short, unsigned char, unsigned char) /tmp/cchFPJVA.o
-                                                  /tmp/cccjkbes.o
-Sprite::getHeight()                               /tmp/cchFPJVA.o
-                                                  /tmp/cccjkbes.o
-Sprite::getWidth()                                /tmp/cchFPJVA.o
-                                                  /tmp/cccjkbes.o
-Sprite::getX()                                    /tmp/cchFPJVA.o
-                                                  /tmp/cccjkbes.o
-Sprite::getY()                                    /tmp/cchFPJVA.o
-                                                  /tmp/cccjkbes.o
-Sprite::hide()                                    /tmp/cchFPJVA.o
-                                                  /tmp/cccjkbes.o
-Sprite::move(unsigned short, unsigned short)      /tmp/cchFPJVA.o
-                                                  /tmp/cccjkbes.o
-Sprite::redraw()                                  /tmp/cchFPJVA.o
-                                                  /tmp/cccjkbes.o
-Sprite::show()                                    /tmp/cchFPJVA.o
-                                                  /tmp/cccjkbes.o
-Sprite::touching(unsigned short, unsigned short)  /tmp/cchFPJVA.o
-Sprite::visible()                                 /tmp/cchFPJVA.o
-                                                  /tmp/cccjkbes.o
-Sprite::within(unsigned short, unsigned short)    /tmp/cccjkbes.o
-SysTick_Handler()                                 /tmp/ccYOLT89.o
-USART2_Handler()                                  /tmp/cc3pFVsK.o
-                                                  /tmp/ccYOLT89.o
-WriteCom(int, char const*)                        /tmp/cc3pFVsK.o
-__aeabi_atexit                                    /tmp/ccYOLT89.o
-__aeabi_unwind_cpp_pr0                            /tmp/ccYOLT89.o
-__aeabi_unwind_cpp_pr1                            /tmp/ccYOLT89.o
-__aeabi_unwind_cpp_pr2                            /tmp/ccYOLT89.o
-__ctors_end__                                     /tmp/ccYOLT89.o
-__ctors_start__                                   /tmp/ccYOLT89.o
-__cxa_end_cleanup                                 /tmp/ccYOLT89.o
-__gxx_personality_v0                              /tmp/ccYOLT89.o
-console                                           /tmp/ccGX7psS.o
-                                                  /tmp/cccjkbes.o
-                                                  /tmp/cchFPJVA.o
-                                                  /tmp/cc1bcjEj.o
-egets(char*, int)                                 /tmp/cc3pFVsK.o
-eputs(char const*)                                /tmp/cc3pFVsK.o
-free                                              /tmp/ccYOLT89.o
-init()                                            /tmp/ccYOLT89.o
-initClocks()                                      /tmp/ccYOLT89.o
-initSysTick()                                     /tmp/ccYOLT89.o
-initUART(int)                                     /tmp/cc3pFVsK.o
-loop()                                            /tmp/cc1bcjEj.o
-                                                  /tmp/ccYOLT89.o
-malloc                                            /tmp/ccYOLT89.o
-onMillisecond()                                   /tmp/ccGX7psS.o
-operator delete(void*)                            /tmp/ccYOLT89.o
-operator new(unsigned int)                        /tmp/ccYOLT89.o
-registerMillisecondCallback(void*)                /tmp/ccYOLT89.o
-                                                  /tmp/ccGX7psS.o
-setup()                                           /tmp/cc1bcjEj.o
-                                                  /tmp/ccYOLT89.o
-usart_rx()                                        /tmp/cc3pFVsK.o
-usart_tx()                                        /tmp/cc3pFVsK.o
+BSS_END                                           /tmp/ccPPXouV.o
+BSS_START                                         /tmp/ccPPXouV.o
+Bunclody17()                                      /tmp/cc5TRjuh.o
+ComBusy                                           /tmp/ccCdCHL2.o
+ComError                                          /tmp/ccCdCHL2.o
+ComOpen                                           /tmp/ccCdCHL2.o
+ComRXBuffer                                       /tmp/ccCdCHL2.o
+ComTXBuffer                                       /tmp/ccCdCHL2.o
+Console::CSHigh()                                 /tmp/cc849Uin.o
+Console::CSLow()                                  /tmp/cc849Uin.o
+Console::CommandMode()                            /tmp/cc849Uin.o
+Console::DataMode()                               /tmp/cc849Uin.o
+Console::FirePressed()                            /tmp/cc849Uin.o
+                                                  /tmp/ccqA6I3t.o
+                                                  /tmp/ccsoXyhP.o
+                                                  /tmp/cc5TRjuh.o
+Console::LeftPressed()                            /tmp/cc849Uin.o
+                                                  /tmp/ccqA6I3t.o
+                                                  /tmp/ccsoXyhP.o
+                                                  /tmp/cc5TRjuh.o
+Console::RDHigh()                                 /tmp/cc849Uin.o
+Console::RSTHigh()                                /tmp/cc849Uin.o
+Console::RSTLow()                                 /tmp/cc849Uin.o
+Console::RightPressed()                           /tmp/cc849Uin.o
+                                                  /tmp/ccqA6I3t.o
+                                                  /tmp/ccsoXyhP.o
+                                                  /tmp/cc5TRjuh.o
+Console::SoundPlaying()                           /tmp/cc849Uin.o
+Console::WRHigh()                                 /tmp/cc849Uin.o
+Console::WRLow()                                  /tmp/cc849Uin.o
+Console::Write_Command(unsigned short)            /tmp/cc849Uin.o
+Console::Write_Command_Data(unsigned short, unsigned short) /tmp/cc849Uin.o
+Console::Write_Data(unsigned short)               /tmp/cc849Uin.o
+Console::begin()                                  /tmp/cc849Uin.o
+                                                  /tmp/cc5TRjuh.o
+Console::fillRectangle(unsigned short, unsigned short, unsigned short, unsigned short, unsigned short) /tmp/cc849Uin.o
+                                                  /tmp/ccqA6I3t.o
+                                                  /tmp/ccsoXyhP.o
+                                                  /tmp/cc5TRjuh.o
+Console::initDisplay()                            /tmp/cc849Uin.o
+Console::initSound()                              /tmp/cc849Uin.o
+Console::openAperture(unsigned short, unsigned short, unsigned short, unsigned short) /tmp/cc849Uin.o
+Console::output_byte(unsigned char)               /tmp/cc849Uin.o
+Console::playMelody(unsigned long const*, unsigned long const*, int) /tmp/cc849Uin.o
+                                                  /tmp/cc5TRjuh.o
+Console::playTone(unsigned long, unsigned long)   /tmp/cc849Uin.o
+                                                  /tmp/ccqA6I3t.o
+                                                  /tmp/ccsoXyhP.o
+Console::prbs()                                   /tmp/cc849Uin.o
+Console::putImage(unsigned short, unsigned short, unsigned short, unsigned short, unsigned short const*) /tmp/cc849Uin.o
+                                                  /tmp/ccqA6I3t.o
+                                                  /tmp/ccsoXyhP.o
+Console::putNumber(unsigned short, unsigned short, unsigned short, unsigned short, unsigned short) /tmp/cc849Uin.o
+                                                  /tmp/ccqA6I3t.o
+                                                  /tmp/ccsoXyhP.o
+Console::putPixel(unsigned short, unsigned short, unsigned short) /tmp/cc849Uin.o
+Console::putText(char const*, unsigned short, unsigned short, unsigned short, unsigned short, unsigned short) /tmp/cc849Uin.o
+                                                  /tmp/ccqA6I3t.o
+                                                  /tmp/ccsoXyhP.o
+                                                  /tmp/cc5TRjuh.o
+Console::random(unsigned long, unsigned long)     /tmp/cc849Uin.o
+                                                  /tmp/ccqA6I3t.o
+                                                  /tmp/ccsoXyhP.o
+                                                  /tmp/cc5TRjuh.o
+Console::setupButtons()                           /tmp/cc849Uin.o
+Console::sleep(unsigned long)                     /tmp/cc849Uin.o
+                                                  /tmp/ccqA6I3t.o
+                                                  /tmp/ccsoXyhP.o
+                                                  /tmp/cc5TRjuh.o
+Console::stopTone()                               /tmp/cc849Uin.o
+Console_tick                                      /tmp/ccPPXouV.o
+Default_Handler()                                 /tmp/ccPPXouV.o
+Explode(unsigned short, unsigned short)           /tmp/ccqA6I3t.o
+GameStarted                                       /tmp/cc5TRjuh.o
+GetBuf(tagComBuffer*)                             /tmp/ccCdCHL2.o
+GetBufCount(tagComBuffer*)                        /tmp/ccCdCHL2.o
+INIT_DATA_END                                     /tmp/ccPPXouV.o
+INIT_DATA_START                                   /tmp/ccPPXouV.o
+INIT_DATA_VALUES                                  /tmp/ccPPXouV.o
+PlayBrici()                                       /tmp/ccsoXyhP.o
+                                                  /tmp/cc5TRjuh.o
+PlayInvaders()                                    /tmp/ccqA6I3t.o
+                                                  /tmp/cc5TRjuh.o
+PutBuf(tagComBuffer*, unsigned char)              /tmp/ccCdCHL2.o
+ReadCom(int, char*)                               /tmp/ccCdCHL2.o
+Sprite::Sprite(unsigned short const*, unsigned short, unsigned short, unsigned char, unsigned char) /tmp/ccsoXyhP.o
+                                                  /tmp/ccqA6I3t.o
+Sprite::Sprite(unsigned short const*, unsigned short, unsigned short, unsigned char, unsigned char) /tmp/ccsoXyhP.o
+                                                  /tmp/ccqA6I3t.o
+Sprite::getHeight()                               /tmp/ccsoXyhP.o
+                                                  /tmp/ccqA6I3t.o
+Sprite::getWidth()                                /tmp/ccsoXyhP.o
+                                                  /tmp/ccqA6I3t.o
+Sprite::getX()                                    /tmp/ccsoXyhP.o
+                                                  /tmp/ccqA6I3t.o
+Sprite::getY()                                    /tmp/ccsoXyhP.o
+                                                  /tmp/ccqA6I3t.o
+Sprite::hide()                                    /tmp/ccsoXyhP.o
+                                                  /tmp/ccqA6I3t.o
+Sprite::move(unsigned short, unsigned short)      /tmp/ccsoXyhP.o
+                                                  /tmp/ccqA6I3t.o
+Sprite::redraw()                                  /tmp/ccsoXyhP.o
+                                                  /tmp/ccqA6I3t.o
+Sprite::show()                                    /tmp/ccsoXyhP.o
+                                                  /tmp/ccqA6I3t.o
+Sprite::touching(unsigned short, unsigned short)  /tmp/ccsoXyhP.o
+Sprite::visible()                                 /tmp/ccsoXyhP.o
+                                                  /tmp/ccqA6I3t.o
+Sprite::within(unsigned short, unsigned short)    /tmp/ccqA6I3t.o
+SysTick_Handler()                                 /tmp/ccPPXouV.o
+USART2_Handler()                                  /tmp/ccCdCHL2.o
+                                                  /tmp/ccPPXouV.o
+WriteCom(int, char const*)                        /tmp/ccCdCHL2.o
+__aeabi_atexit                                    /tmp/ccPPXouV.o
+__aeabi_unwind_cpp_pr0                            /tmp/ccPPXouV.o
+__aeabi_unwind_cpp_pr1                            /tmp/ccPPXouV.o
+__aeabi_unwind_cpp_pr2                            /tmp/ccPPXouV.o
+__ctors_end__                                     /tmp/ccPPXouV.o
+__ctors_start__                                   /tmp/ccPPXouV.o
+__cxa_end_cleanup                                 /tmp/ccPPXouV.o
+__gxx_personality_v0                              /tmp/ccPPXouV.o
+console                                           /tmp/cc849Uin.o
+                                                  /tmp/ccqA6I3t.o
+                                                  /tmp/ccsoXyhP.o
+                                                  /tmp/cc5TRjuh.o
+egets(char*, int)                                 /tmp/ccCdCHL2.o
+eputs(char const*)                                /tmp/ccCdCHL2.o
+free                                              /tmp/ccPPXouV.o
+init()                                            /tmp/ccPPXouV.o
+initClocks()                                      /tmp/ccPPXouV.o
+initSysTick()                                     /tmp/ccPPXouV.o
+initUART(int)                                     /tmp/ccCdCHL2.o
+loop()                                            /tmp/cc5TRjuh.o
+                                                  /tmp/ccPPXouV.o
+malloc                                            /tmp/ccPPXouV.o
+onMillisecond()                                   /tmp/cc849Uin.o
+operator delete(void*)                            /tmp/ccPPXouV.o
+operator new(unsigned int)                        /tmp/ccPPXouV.o
+registerMillisecondCallback(void*)                /tmp/ccPPXouV.o
+                                                  /tmp/cc849Uin.o
+setup()                                           /tmp/cc5TRjuh.o
+                                                  /tmp/ccPPXouV.o
+usart_rx()                                        /tmp/ccCdCHL2.o
+usart_tx()                                        /tmp/ccCdCHL2.o

@@ -1,6 +1,6 @@
 #include <stdint.h>
-#include "../include/cortexm3.h"
-#include "../include/STM32F103.h"
+#include "cortexm3.h"
+#include "STM32F103.h"
 #include "serial.h"
 // Serial comms routine for the STM32F103C8T6 breakout board from Aliexpress
 // makes use of usart2.  Pins PA2 and PA3 are used for transmission/reception

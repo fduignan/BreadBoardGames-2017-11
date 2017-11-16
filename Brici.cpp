@@ -1,6 +1,6 @@
 // A game inspired by the great game Breakout
 #include <stdint.h>
-#include "../include/cortexm3.h"
+#include "cortexm3.h"
 #include "Sprite.h"
 #include "console.h"
 #include "images.h"
