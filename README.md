@@ -5,7 +5,7 @@ http://ioprog.com/bbg
 
 The Console API
     void begin()
-        Initialize the console hardware and software.  This should be called once during the start-up sequencey
+        Initialize the console hardware and software.  This should be called once during the start-up sequence
     
     void putPixel(uint16_t x, uint16_t y, uint16_t colour);
         Draw a pixel at the specified x,y location with the specified colour
